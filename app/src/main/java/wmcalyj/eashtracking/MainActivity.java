@@ -437,10 +437,31 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        if (id == R.id.option_menu_help) {
+            createHelpDialog();
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    private void createHelpDialog() {
+        // custom dialog
+        final Dialog dialog = new Dialog(mContext);
+        dialog.setContentView(R.layout.help_dialog);
+        dialog.setTitle(Constants.OPTION_MENU_HELP_TITLE);
+        setOptionMenuOkButton(dialog);
+        dialog.show();
+
+
+    }
+
+    public void setOptionMenuOkButton(final Dialog dialog) {
+        Button ok = (Button) dialog.findViewById(R.id.help_dialog_ok);
+        ok.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                dialog.dismiss();
+            }
+        });
     }
 }

@@ -34,6 +34,7 @@ public class Constants {
             "tracking number and carrier.";
     public static String TRACKING_NUMBER_EMPTY_WARNING = "Please enter tracking number before " +
             "checking";
+    public static String OPTION_MENU_HELP_TITLE = "Help / Instructions";
 
 
     public static final List<String> getAllActions() {

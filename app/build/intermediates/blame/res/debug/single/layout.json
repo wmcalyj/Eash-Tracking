@@ -108,6 +108,10 @@
         "source": "/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/res/merged/debug/layout/help_dialog.xml",
+        "source": "/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/src/main/res/layout/help_dialog.xml"
+    },
+    {
         "merged": "/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
     },

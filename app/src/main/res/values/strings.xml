@@ -12,7 +12,15 @@
     <string name="add_edit_comment_cancel">Cancel</string>
     <string name="clear_history">Clear</string>
     <string name="cancel">Cancel</string>
-    <string name="option_menu_help">Help</string>
+    <string name="option_menu_help">Help/Instruction</string>
+    <string name="option_menu_report">Report</string>
+    <string name="help_dialog_ok">OK</string>
+    <string name="help_dialog_text">1. Click on record to view it again.\n2. Long press record to
+        add/edit/delete comment or
+        delete this record.\n3. Click Clear button to clear checking history\n4. If you have any
+        comment/suggestion or you found any bug, feel free to send an email to
+        eash.tracking@gmail.com
+    </string>
     <string-array name="carrier_array">
         <item>UPS</item>
         <item>USPS</item>
