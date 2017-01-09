@@ -11,7 +11,7 @@
     <string name="add_edit_comment_ok">Done</string>
     <string name="add_edit_comment_cancel">Cancel</string>
     <string name="clear_history">Clear</string>
-    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
     <string name="option_menu_help">Help/Instruction</string>
     <string name="option_menu_report">Report</string>
     <string name="help_dialog_ok">OK</string>

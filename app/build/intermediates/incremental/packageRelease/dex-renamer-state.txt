@@ -1,0 +1,4 @@
+#Mon Jan 09 13:28:53 CST 2017
+base.0=/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

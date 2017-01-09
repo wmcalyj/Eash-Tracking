@@ -1625,8 +1625,8 @@
         add/edit/delete comment or
         delete this record.\n3. Click Clear button to clear checking history\n4. If you have any
         comment/suggestion or you found any bug, feel free to send an email to
-        eash-tracking@gmail.com
-    </string><string name="clear_history">Clear</string><string name="cancel">Cancel</string><string name="welcome_message">Welcome to Eash Tracking</string><string name="history_text_tracking_number">History_Tracking_Number</string><string name="add_edit_comment_cancel">Cancel</string><string name="tracking_number_hint">Tracking number</string><string name="history_tracking_remove">Remove</string><string name="add_edit_comment_title">Add/Edit Comment</string><string name="help_dialog_ok">OK</string></file><file path="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        eash.tracking@gmail.com
+    </string><string name="clear_history">Clear</string><string name="welcome_message">Welcome to Eash Tracking</string><string name="history_text_tracking_number">History_Tracking_Number</string><string name="add_edit_comment_cancel">Cancel</string><string name="reset">Reset</string><string name="tracking_number_hint">Tracking number</string><string name="history_tracking_remove">Remove</string><string name="add_edit_comment_title">Add/Edit Comment</string><string name="help_dialog_ok">OK</string></file><file path="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

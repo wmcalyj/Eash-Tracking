@@ -1,4 +1,4 @@
-#Mon Jan 09 11:15:04 CST 2017
+#Mon Jan 09 13:15:57 CST 2017
 base.0=/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29d9141916dcc2f914ec1e87339326582b98ce74
 renamed.1=classes.dex
 renamed.0=classes2.dex

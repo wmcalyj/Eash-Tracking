@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editText;
     private Context mContext = this;
     private ListView listView;
+    private Spinner carrierSpinner;
     private RelativeLayout searchHistoryList;
     private ArrayAdapter listViewArrayAdapter;
     private CircularProgressBar progressBar;
@@ -52,6 +53,8 @@ public class MainActivity extends AppCompatActivity {
             boolean succeed = intent.getBooleanExtra(Constants.REQUEST_RESULT_BOOLEAN, false);
             if (succeed) {
                 updateRecentlySearchedHistory();
+                clearEditText();
+                clearCarrierSpinner();
                 dismissProgressBar();
             } else {
                 dismissProgressBar();
@@ -59,6 +62,21 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     };
+
+    private void clearCarrierSpinner() {
+        if (carrierSpinner == null) {
+            carrierSpinner = (Spinner) findViewById(R.id.carrier_spinner);
+        }
+        carrierSpinner.setSelection(0);
+    }
+
+    private void clearEditText() {
+        if (editText == null) {
+            editText = (EditText) findViewById(R.id.tracking_number);
+
+        }
+        editText.setText("");
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -91,7 +109,8 @@ public class MainActivity extends AppCompatActivity {
         cancel.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                editText.setText("");
+                clearEditText();
+                clearCarrierSpinner();
                 RequestService.getInstance().cancelRequest();
             }
         });
@@ -202,6 +221,7 @@ public class MainActivity extends AppCompatActivity {
                 .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                         RecentlySearchedTrackingNumber.getInstance().deleteCommentForId(trackingId);
+                        Toast.makeText(mContext, "Comment deleted.", Toast.LENGTH_LONG).show();
                     }
                 })
                 .setNegativeButton("No", new DialogInterface.OnClickListener() {
@@ -265,6 +285,8 @@ public class MainActivity extends AppCompatActivity {
                 String comment = commentView.getText().toString();
                 RecentlySearchedTrackingNumber.getInstance().saveComment(trackingId, comment);
                 dialog.dismiss();
+                Toast.makeText(mContext, "Comment \"" + comment + "\" saved", Toast.LENGTH_SHORT)
+                        .show();
             }
         });
     }

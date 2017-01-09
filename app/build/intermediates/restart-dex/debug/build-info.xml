@@ -5,46 +5,52 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="160966667135257"
+    timestamp="164413683185260"
     token="-3416105430130096184"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="877" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="208" />
     <task
         name="verifier"
-        duration="0" />
+        duration="37" />
+
+    <artifact
+        location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="158916946500301"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="163666621658076"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="160664888381125"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="160832146503835"
+        timestamp="164413683185260"
         verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
         <artifact
             location="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
             type="DEX" />
     </build>
-    <build
-        timestamp="160966667135257"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
