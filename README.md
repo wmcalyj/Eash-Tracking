@@ -8,3 +8,7 @@ https://github.com/wmcalyj/Eash-Tracking/blob/master/app/eash-tracking-release.a
 or
 
 http://mengchao.wangandlao.com/small-tools/
+
+or download it from Google Play
+
+https://play.google.com/store/apps/details?id=wmcalyj.eashtracking
