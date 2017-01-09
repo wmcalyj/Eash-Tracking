@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Eash Tracking</string>
+    <string name="welcome_message">Welcome to Eash Tracking</string>
+    <string name="check">Check</string>
+    <string name="history_tracking_remove">Remove</string>
+    <string name="tracking_number_hint">Tracking number</string>
+    <string name="history_button_tag">History_Remove_Button</string>
+    <string name="history_text_tracking_number">History_Tracking_Number</string>
+    <string name="add_edit_comment_hint">Please enter your comment</string>
+    <string name="add_edit_comment_title">Add/Edit Comment</string>
+    <string name="add_edit_comment_ok">Done</string>
+    <string name="add_edit_comment_cancel">Cancel</string>
+    <string name="clear_history">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="option_menu_help">Help</string>
+    <string-array name="carrier_array">
+        <item>UPS</item>
+        <item>USPS</item>
+        <item>FEDEX</item>
+        <item>DHL</item>
+    </string-array>
+</resources>
