@@ -94,6 +94,22 @@ public final class BarcodeCaptureActivity extends AppCompatActivity {
         // permission is not granted yet, request permission.
         int rc = ActivityCompat.checkSelfPermission(this, Manifest.permission.CAMERA);
         if (rc == PackageManager.PERMISSION_GRANTED) {
+            CompoundButton turnOnFlash = (CompoundButton) findViewById(R.id.turnon_flash);
+            turnOnFlash.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+                @Override
+                public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                    if (mCameraSource == null) {
+                        Log.d(TAG, "Camera Source is null");
+                    } else {
+                        if (isChecked) {
+                            mCameraSource.setFlashMode(Camera.Parameters.FLASH_MODE_TORCH);
+
+                        } else {
+                            mCameraSource.setFlashMode(Camera.Parameters.FLASH_MODE_OFF);
+                        }
+                    }
+                }
+            });
             createCameraSource(true, false);
         } else {
             requestCameraPermission();
@@ -102,27 +118,6 @@ public final class BarcodeCaptureActivity extends AppCompatActivity {
         gestureDetector = new GestureDetector(this, new CaptureGestureListener());
         scaleGestureDetector = new ScaleGestureDetector(this, new ScaleListener());
 
-//        Snackbar.make(mGraphicOverlay, "Tap to capture. Pinch/Stretch to zoom",
-//                Snackbar.LENGTH_LONG)
-//                .show();
-
-        CompoundButton turnonFlash = (CompoundButton) findViewById(R.id.turnon_flash);
-        turnonFlash.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @SuppressWarnings("MissingPermission")
-            @Override
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (mCameraSource == null) {
-                    Log.d(TAG, "Camera Source is null");
-                } else {
-                    if (isChecked) {
-                        mCameraSource.setFlashMode(Camera.Parameters.FLASH_MODE_TORCH);
-
-                    } else {
-                        mCameraSource.setFlashMode(Camera.Parameters.FLASH_MODE_OFF);
-                    }
-                }
-            }
-        });
 
         Button back = (Button) findViewById(R.id.barcode_reader_back_button);
         back.setOnClickListener(new View.OnClickListener() {

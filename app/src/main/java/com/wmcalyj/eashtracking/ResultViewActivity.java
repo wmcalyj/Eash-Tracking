@@ -17,15 +17,6 @@ public class ResultViewActivity extends AppCompatActivity {
     WebView webView;
     CircularProgressBar progressBar;
 
-    public String changedHeaderHtml(String htmlText) {
-
-        String head = "<head><meta name=\"viewport\" content=\"width=device-width, " +
-                "user-scalable=yes\" /></head>";
-
-        String closedTag = "</body></html>";
-        String changeFontHtml = head + htmlText + closedTag;
-        return changeFontHtml;
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -64,5 +55,4 @@ public class ResultViewActivity extends AppCompatActivity {
         }
         progressBar.setVisibility(View.GONE);
     }
-
 }

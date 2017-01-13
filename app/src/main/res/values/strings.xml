@@ -32,7 +32,8 @@
     </string>
     <string name="ok">OK</string>
     <string name="barcode_error">"Error reading barcode: %1$s"</string>
-    <string name="barcode_scan_instruction">Tap to capture. Pinch/Stretch to zoom</string>
+    <string name="barcode_scan_instruction">Tap on barcode to capture. Pinch/Stretch to zoom
+    </string>
     <string name="white_space_warning">Please do not contain any white space</string>
     <string name="turnon_flash">Turn on flash</string>
     <string name="barcode_reader_back">Back</string>

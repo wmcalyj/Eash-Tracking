@@ -29,6 +29,15 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.1.0_f9beedee20b05d6466041eb4a433a9665ccb648e/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.0_f104b2bc33f75cff24640d0324615fa9091c915a.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
         jumboMode="true"
@@ -38,6 +47,15 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.1.0_e46e7871e2d00b086a3145c0c582cf0603888d06/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/support-annotations-25.1.0_4764d62e5021ea7a61339909b2916bb5131473cd.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
         jumboMode="true"
@@ -45,6 +63,15 @@
         revision="25.0.2"
         sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.1.0_22fb2106d53414714cdb936b819b3ac7caa5b102/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.0_ba6680adaafdc22b180a7783a684027cc78c9ccd.jar" />
     </item>
     <item
         is-multidex="true"
@@ -74,6 +101,33 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_3c0ad44f0a46f2abe542d0c42a396a89473b669c/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.0_aca2a6812bafe4623538ab718fa4efd98c5f3a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-8.1.0_58412191ef4b4c085cd5b1766fb9dc57daaa59a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-8.1.0_47bf415e2698912d005c5b840a8ecfa2d3019d08.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
         jumboMode="true"
@@ -90,6 +144,51 @@
         revision="25.0.2"
         sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_8721d241d725c1997b3e00e5abd799cbd8b898f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-8.1.0_e3ae7a342031c3a05c0275d28f99139849c09347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-8.1.0_42d8b3692ad15487eac2e62c6196ddaeab01017f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_a3e4068ecfbf5d66b78f660f2603aa247faab515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-8.1.0_d011201bc6dc7f4446079063e1386791c1d7b659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-8.1.0_94c092072ce97ce8459b92e1d64a942264e4dc79.jar" />
     </item>
     <item
         is-multidex="true"
@@ -119,6 +218,42 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_3535b79ebd0fd39c918957e484b2a5f90915df14/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.0_99f93e664aa12e31a22724a9b901f48953a4b4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.0_131da24c9694784f7499163b4c42e1b333f79f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-22.2.0_0ad74dd58a1a3b0e94fd801379859226ac74d471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-8.1.0_77a03b39dd260e3353e01bcbaa5a9841463cd9ed.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
         jumboMode="true"
@@ -146,6 +281,15 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.10.2_0c7ff007de4662a13b6b76f645577b3c434f3e5e/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-8.1.0_407bd21255c7e6a30fd59c8d77982e6b62f90d49.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
         jumboMode="true"
@@ -153,6 +297,15 @@
         revision="25.0.2"
         sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.1.0_c085488de22873d8d04ccc616dbc9c86d19f0ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.0_f2a093bdb02ef38967d4577274152e3db38233d7.jar" />
     </item>
     <item
         is-multidex="true"
@@ -164,6 +317,51 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.1.0_bf679d8d60ea327aba38ea7b778e6b881e6f0cea/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.0_10742ac396aa211918d65b0fdd091b0dba15cb95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0_820882ae55d915a4d64ba3ad5aa258bba2fb45c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library-circular/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.github.castorflex.smoothprogressbar-library-circular-1.0.0_48b052e6bc252ef1fb8a5ca0c363311fd096a77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-8.1.0_38fdf2ae8ac754525a87971c026e46ecaac3a2a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-8.1.0_cf37d39c54aeb5f7fbf43cdf96dcbfa7c67b493a.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
         jumboMode="true"
@@ -171,6 +369,15 @@
         revision="25.0.2"
         sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_8dedb40c3fdb45638782c13d95a6a4b7ed065254/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.1.0_f9beedee20b05d6466041eb4a433a9665ccb648e.jar" />
     </item>
     <item
         is-multidex="true"
@@ -182,6 +389,15 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f104b2bc33f75cff24640d0324615fa9091c915a/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-8.1.0_e46e7871e2d00b086a3145c0c582cf0603888d06.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
@@ -189,6 +405,15 @@
         revision="25.0.2"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_aca2a6812bafe4623538ab718fa4efd98c5f3a51/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-measurement-8.1.0_6ea7452b06fb8069863c5522c6bf96463405c3e3.jar" />
     </item>
     <item
         is-multidex="true"
@@ -218,6 +443,24 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5426be1079085893f9dbc34516c2a7fc49e7e97/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-8.1.0_22fb2106d53414714cdb936b819b3ac7caa5b102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-8.1.0_16ec8a804f0f4b87c10a1c03b4334b7a3eab5064.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
         jumboMode="true"
@@ -227,6 +470,33 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_ba6680adaafdc22b180a7783a684027cc78c9ccd/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.1.0_044ba7db2d0e9ec479772e9f80362277e8e136d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.1.0_19cb6466dbb101ccd6ac49ac3187732f5e906720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.1.0_8721d241d725c1997b3e00e5abd799cbd8b898f1.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
         jumboMode="true"
@@ -234,6 +504,24 @@
         revision="25.0.2"
         sha1="95758a2905669affbffc5ddd262921d375674fad">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.1.0_58412191ef4b4c085cd5b1766fb9dc57daaa59a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.0_3c0ad44f0a46f2abe542d0c42a396a89473b669c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-8.1.0_505c0ea9405fa6a31956f37e4fa07b4f682c740f.jar" />
     </item>
     <item
         is-multidex="true"
@@ -281,6 +569,15 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.1.0_42d8b3692ad15487eac2e62c6196ddaeab01017f/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.0_8e073c5cbbd09282464df7d1ccaa3d1d22b8e024.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
         jumboMode="true"
@@ -297,6 +594,24 @@
         revision="25.0.2"
         sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.1.0_e3ae7a342031c3a05c0275d28f99139849c09347/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-8.1.0_ef65f8e7e11647bc75fc83e3f71500bb2947f842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.0_3535b79ebd0fd39c918957e484b2a5f90915df14.jar" />
     </item>
     <item
         is-multidex="true"
@@ -326,6 +641,24 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_10742ac396aa211918d65b0fdd091b0dba15cb95/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.0_5087f5c4ecceb1bb55c57ae27cbf284aafb5266c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.0_30174d2ce4b4bdb68f43100d6181d07adfda62f4.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
         jumboMode="true"
@@ -353,6 +686,24 @@
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_131da24c9694784f7499163b4c42e1b333f79f1f/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/jsoup-1.10.2_0c7ff007de4662a13b6b76f645577b3c434f3e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/me.grantland/autofittextview/0.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/me.grantland-autofittextview-0.2.1_fb55b9978b3b8ae7a62da27f65425c744cf21abb.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
         jumboMode="true"
@@ -360,6 +711,24 @@
         revision="25.0.2"
         sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.1.0_77a03b39dd260e3353e01bcbaa5a9841463cd9ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-8.1.0_c085488de22873d8d04ccc616dbc9c86d19f0ed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-8.1.0_bf679d8d60ea327aba38ea7b778e6b881e6f0cea.jar" />
     </item>
     <item
         is-multidex="true"
@@ -387,6 +756,15 @@
         revision="25.0.2"
         sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
         <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.1.0_407bd21255c7e6a30fd59c8d77982e6b62f90d49/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mengchaowang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/mengchaowang/Playground/Easy-Tracking/Android/Easy-Tracking/app/build/intermediates/pre-dexed/release/gson-2.8.0_8dedb40c3fdb45638782c13d95a6a4b7ed065254.jar" />
     </item>
     <item
         is-multidex="true"
