@@ -2,18 +2,13 @@
     <string name="app_name">Eash Tracking</string>
     <string name="welcome_message">Welcome to Eash Tracking</string>
     <string name="check">Check</string>
-    <string name="history_tracking_remove">Remove</string>
     <string name="tracking_number_hint">Tracking number</string>
-    <string name="history_button_tag">History_Remove_Button</string>
-    <string name="history_text_tracking_number">History_Tracking_Number</string>
     <string name="add_edit_comment_hint">Please enter your comment</string>
-    <string name="add_edit_comment_title">Add/Edit Comment</string>
     <string name="add_edit_comment_ok">Done</string>
     <string name="add_edit_comment_cancel">Cancel</string>
     <string name="clear_history">Clear</string>
     <string name="reset">Reset</string>
     <string name="option_menu_help">Help/Instruction</string>
-    <string name="option_menu_report">Report</string>
     <string name="help_dialog_ok">OK</string>
     <string name="help_dialog_text">1. Click on record to view it again.\n2. Long press record to
         add/edit/delete comment or
@@ -21,10 +16,43 @@
         comment/suggestion or you found any bug, feel free to send an email to
         eash.tracking@gmail.com
     </string>
+    <string name="scan">Scan</string>
     <string-array name="carrier_array">
         <item>UPS</item>
         <item>USPS</item>
         <item>FEDEX</item>
         <item>DHL</item>
     </string-array>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low
+        device storage
+    </string>
+    <string name="no_camera_permission">This application cannot run because it does not have the
+        camera permission. The application will now exit.
+    </string>
+    <string name="ok">OK</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="barcode_scan_instruction">Tap to capture. Pinch/Stretch to zoom</string>
+    <string name="white_space_warning">Please do not contain any white space</string>
+    <string name="turnon_flash">Turn on flash</string>
+    <string name="barcode_reader_back">Back</string>
+    <!--<string name="FILE_NAME">Easy_Tracking_History</string>-->
+    <!--<string name="REQUEST_URL">REQUEST_URL_FOR_TRACKING"</string>-->
+    <!--<string name="REQUEST_RESULT_BROADCAST_MESSAGE">REQUEST_RESULT_BROADCAST_MESSAGE"</string>-->
+    <!--<string name="REQUEST_RESULT_BOOLEAN">REQUEST_RESULT_BOOLEAN"</string>-->
+    <!--<string name="MORE_ACTION_TITLE">More Action</string>-->
+    <!--<string name="TRACKINGNUMBER_DELIMITER">&#45;&#45;</string>-->
+    <!--<string name="DUMMY_TRACKINGNUMBER_NUMBER">DUMMYNUMBER</string>-->
+    <!--<string name="DUMMY_TRACKINGNUMBER_CARRIER">DUMMYCARRIER</string>-->
+    <!--<string name="FAIL_TO_LOAD_WEB_PAGE">Failed load page to web, please check your tracking number-->
+    <!--and carrier.-->
+    <!--</string>-->
+    <!--<string name="TRACKING_NUMBER_EMPTY_WARNING">Please enter tracking number before checking"-->
+    <!--</string>-->
+    <!--<string name="OPTION_MENU_HELP_TITLE">Help / Instructions</string>-->
+
+    <!--<string name="VIEW_EDIT_COMMENT">View/Edit Comment</string>-->
+    <!--<string name="DELETE_COMMENT">Delete Comment</string>-->
+    <!--<string name="DETAILS">Details</string>-->
+    <!--<string name="DELETE">Delete this record"</string>-->
 </resources>

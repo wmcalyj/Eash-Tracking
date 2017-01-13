@@ -3,7 +3,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
@@ -11,7 +10,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="wmcalyj.eashtracking.MainActivity">
+    tools:context="com.wmcalyj.eashtracking.MainActivity">
 
 
     <TextView
@@ -27,7 +26,7 @@
         android:layout_below="@id/title"
         android:layout_toLeftOf="@+id/carrier_spinner"
         android:hint="@string/tracking_number_hint"
-        android:maxLines="1"/>
+        android:maxLines="3"/>
 
     <Spinner
         android:id="@id/carrier_spinner"
@@ -46,6 +45,14 @@
         android:layout_alignParentStart="true"
         android:layout_below="@id/tracking_number"
         android:text="@string/check"/>
+    <Button
+        android:id="@+id/barcode_scanner_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/check_button"
+        android:layout_alignTop="@id/check_button"
+        android:layout_centerHorizontal="true"
+        android:text="@string/scan"/>
 
     <Button
         android:id="@+id/cancel_button"
